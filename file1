@@ -1,0 +1,9 @@
+welcom to git class
+git class was started today 
+git is help to store data in our repo
+
+we have to create a file first and 
+next step is we have to addd that using command git add filename
+after this we have to commit that using git commit -m message
+then we can check the status 
+we have to follow all this steps to keep the data in the repo
