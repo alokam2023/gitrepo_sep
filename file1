@@ -7,3 +7,5 @@ next step is we have to addd that using command git add filename
 after this we have to commit that using git commit -m message
 then we can check the status 
 we have to follow all this steps to keep the data in the repo
+
+second time data added
